@@ -91,7 +91,7 @@ app.view.LogoLayer = cc.Layer.extend({
     },
 
     onStartGame : function(){
-        https://github.com/kenkozheng/cocos2d-js
+        
     },
 
     onContinueGame : function(){
