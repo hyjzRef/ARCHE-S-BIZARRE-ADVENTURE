@@ -1,0 +1,320 @@
+<Solution>
+  <PropertyGroup Name="cocosstudio" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="files">
+          <Project Name="layer1.csd" Type="Layer" />
+          <Project Name="LogoScene.csd" Type="Scene" />
+          <Project Name="TestScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="resources">
+          <Folder Name="Arche">
+            <PlistImageFolder Image="arche_normal.png" PListFile="arche_normal.plist" Name=".arche_normal_PList.Dir">
+              <PlistImageFile Name="arche_normal_1.png" Key="arche_normal_1.png" />
+              <PlistImageFile Name="arche_normal_10.png" Key="arche_normal_10.png" />
+              <PlistImageFile Name="arche_normal_100.png" Key="arche_normal_100.png" />
+              <PlistImageFile Name="arche_normal_101.png" Key="arche_normal_101.png" />
+              <PlistImageFile Name="arche_normal_102.png" Key="arche_normal_102.png" />
+              <PlistImageFile Name="arche_normal_103.png" Key="arche_normal_103.png" />
+              <PlistImageFile Name="arche_normal_104.png" Key="arche_normal_104.png" />
+              <PlistImageFile Name="arche_normal_105.png" Key="arche_normal_105.png" />
+              <PlistImageFile Name="arche_normal_106.png" Key="arche_normal_106.png" />
+              <PlistImageFile Name="arche_normal_107.png" Key="arche_normal_107.png" />
+              <PlistImageFile Name="arche_normal_108.png" Key="arche_normal_108.png" />
+              <PlistImageFile Name="arche_normal_109.png" Key="arche_normal_109.png" />
+              <PlistImageFile Name="arche_normal_11.png" Key="arche_normal_11.png" />
+              <PlistImageFile Name="arche_normal_110.png" Key="arche_normal_110.png" />
+              <PlistImageFile Name="arche_normal_111.png" Key="arche_normal_111.png" />
+              <PlistImageFile Name="arche_normal_112.png" Key="arche_normal_112.png" />
+              <PlistImageFile Name="arche_normal_113.png" Key="arche_normal_113.png" />
+              <PlistImageFile Name="arche_normal_114.png" Key="arche_normal_114.png" />
+              <PlistImageFile Name="arche_normal_115.png" Key="arche_normal_115.png" />
+              <PlistImageFile Name="arche_normal_116.png" Key="arche_normal_116.png" />
+              <PlistImageFile Name="arche_normal_117.png" Key="arche_normal_117.png" />
+              <PlistImageFile Name="arche_normal_118.png" Key="arche_normal_118.png" />
+              <PlistImageFile Name="arche_normal_119.png" Key="arche_normal_119.png" />
+              <PlistImageFile Name="arche_normal_12.png" Key="arche_normal_12.png" />
+              <PlistImageFile Name="arche_normal_120.png" Key="arche_normal_120.png" />
+              <PlistImageFile Name="arche_normal_121.png" Key="arche_normal_121.png" />
+              <PlistImageFile Name="arche_normal_122.png" Key="arche_normal_122.png" />
+              <PlistImageFile Name="arche_normal_123.png" Key="arche_normal_123.png" />
+              <PlistImageFile Name="arche_normal_124.png" Key="arche_normal_124.png" />
+              <PlistImageFile Name="arche_normal_125.png" Key="arche_normal_125.png" />
+              <PlistImageFile Name="arche_normal_126.png" Key="arche_normal_126.png" />
+              <PlistImageFile Name="arche_normal_127.png" Key="arche_normal_127.png" />
+              <PlistImageFile Name="arche_normal_128.png" Key="arche_normal_128.png" />
+              <PlistImageFile Name="arche_normal_129.png" Key="arche_normal_129.png" />
+              <PlistImageFile Name="arche_normal_13.png" Key="arche_normal_13.png" />
+              <PlistImageFile Name="arche_normal_130.png" Key="arche_normal_130.png" />
+              <PlistImageFile Name="arche_normal_131.png" Key="arche_normal_131.png" />
+              <PlistImageFile Name="arche_normal_132.png" Key="arche_normal_132.png" />
+              <PlistImageFile Name="arche_normal_133.png" Key="arche_normal_133.png" />
+              <PlistImageFile Name="arche_normal_134.png" Key="arche_normal_134.png" />
+              <PlistImageFile Name="arche_normal_135.png" Key="arche_normal_135.png" />
+              <PlistImageFile Name="arche_normal_136.png" Key="arche_normal_136.png" />
+              <PlistImageFile Name="arche_normal_137.png" Key="arche_normal_137.png" />
+              <PlistImageFile Name="arche_normal_138.png" Key="arche_normal_138.png" />
+              <PlistImageFile Name="arche_normal_139.png" Key="arche_normal_139.png" />
+              <PlistImageFile Name="arche_normal_14.png" Key="arche_normal_14.png" />
+              <PlistImageFile Name="arche_normal_140.png" Key="arche_normal_140.png" />
+              <PlistImageFile Name="arche_normal_141.png" Key="arche_normal_141.png" />
+              <PlistImageFile Name="arche_normal_142.png" Key="arche_normal_142.png" />
+              <PlistImageFile Name="arche_normal_143.png" Key="arche_normal_143.png" />
+              <PlistImageFile Name="arche_normal_144.png" Key="arche_normal_144.png" />
+              <PlistImageFile Name="arche_normal_145.png" Key="arche_normal_145.png" />
+              <PlistImageFile Name="arche_normal_146.png" Key="arche_normal_146.png" />
+              <PlistImageFile Name="arche_normal_147.png" Key="arche_normal_147.png" />
+              <PlistImageFile Name="arche_normal_148.png" Key="arche_normal_148.png" />
+              <PlistImageFile Name="arche_normal_149.png" Key="arche_normal_149.png" />
+              <PlistImageFile Name="arche_normal_15.png" Key="arche_normal_15.png" />
+              <PlistImageFile Name="arche_normal_150.png" Key="arche_normal_150.png" />
+              <PlistImageFile Name="arche_normal_151.png" Key="arche_normal_151.png" />
+              <PlistImageFile Name="arche_normal_152.png" Key="arche_normal_152.png" />
+              <PlistImageFile Name="arche_normal_153.png" Key="arche_normal_153.png" />
+              <PlistImageFile Name="arche_normal_154.png" Key="arche_normal_154.png" />
+              <PlistImageFile Name="arche_normal_155.png" Key="arche_normal_155.png" />
+              <PlistImageFile Name="arche_normal_156.png" Key="arche_normal_156.png" />
+              <PlistImageFile Name="arche_normal_157.png" Key="arche_normal_157.png" />
+              <PlistImageFile Name="arche_normal_158.png" Key="arche_normal_158.png" />
+              <PlistImageFile Name="arche_normal_159.png" Key="arche_normal_159.png" />
+              <PlistImageFile Name="arche_normal_16.png" Key="arche_normal_16.png" />
+              <PlistImageFile Name="arche_normal_160.png" Key="arche_normal_160.png" />
+              <PlistImageFile Name="arche_normal_161.png" Key="arche_normal_161.png" />
+              <PlistImageFile Name="arche_normal_162.png" Key="arche_normal_162.png" />
+              <PlistImageFile Name="arche_normal_163.png" Key="arche_normal_163.png" />
+              <PlistImageFile Name="arche_normal_164.png" Key="arche_normal_164.png" />
+              <PlistImageFile Name="arche_normal_165.png" Key="arche_normal_165.png" />
+              <PlistImageFile Name="arche_normal_166.png" Key="arche_normal_166.png" />
+              <PlistImageFile Name="arche_normal_167.png" Key="arche_normal_167.png" />
+              <PlistImageFile Name="arche_normal_168.png" Key="arche_normal_168.png" />
+              <PlistImageFile Name="arche_normal_169.png" Key="arche_normal_169.png" />
+              <PlistImageFile Name="arche_normal_17.png" Key="arche_normal_17.png" />
+              <PlistImageFile Name="arche_normal_170.png" Key="arche_normal_170.png" />
+              <PlistImageFile Name="arche_normal_171.png" Key="arche_normal_171.png" />
+              <PlistImageFile Name="arche_normal_172.png" Key="arche_normal_172.png" />
+              <PlistImageFile Name="arche_normal_173.png" Key="arche_normal_173.png" />
+              <PlistImageFile Name="arche_normal_174.png" Key="arche_normal_174.png" />
+              <PlistImageFile Name="arche_normal_175.png" Key="arche_normal_175.png" />
+              <PlistImageFile Name="arche_normal_176.png" Key="arche_normal_176.png" />
+              <PlistImageFile Name="arche_normal_177.png" Key="arche_normal_177.png" />
+              <PlistImageFile Name="arche_normal_178.png" Key="arche_normal_178.png" />
+              <PlistImageFile Name="arche_normal_179.png" Key="arche_normal_179.png" />
+              <PlistImageFile Name="arche_normal_18.png" Key="arche_normal_18.png" />
+              <PlistImageFile Name="arche_normal_180.png" Key="arche_normal_180.png" />
+              <PlistImageFile Name="arche_normal_181.png" Key="arche_normal_181.png" />
+              <PlistImageFile Name="arche_normal_182.png" Key="arche_normal_182.png" />
+              <PlistImageFile Name="arche_normal_183.png" Key="arche_normal_183.png" />
+              <PlistImageFile Name="arche_normal_184.png" Key="arche_normal_184.png" />
+              <PlistImageFile Name="arche_normal_185.png" Key="arche_normal_185.png" />
+              <PlistImageFile Name="arche_normal_186.png" Key="arche_normal_186.png" />
+              <PlistImageFile Name="arche_normal_187.png" Key="arche_normal_187.png" />
+              <PlistImageFile Name="arche_normal_188.png" Key="arche_normal_188.png" />
+              <PlistImageFile Name="arche_normal_189.png" Key="arche_normal_189.png" />
+              <PlistImageFile Name="arche_normal_19.png" Key="arche_normal_19.png" />
+              <PlistImageFile Name="arche_normal_190.png" Key="arche_normal_190.png" />
+              <PlistImageFile Name="arche_normal_191.png" Key="arche_normal_191.png" />
+              <PlistImageFile Name="arche_normal_192.png" Key="arche_normal_192.png" />
+              <PlistImageFile Name="arche_normal_193.png" Key="arche_normal_193.png" />
+              <PlistImageFile Name="arche_normal_194.png" Key="arche_normal_194.png" />
+              <PlistImageFile Name="arche_normal_195.png" Key="arche_normal_195.png" />
+              <PlistImageFile Name="arche_normal_196.png" Key="arche_normal_196.png" />
+              <PlistImageFile Name="arche_normal_197.png" Key="arche_normal_197.png" />
+              <PlistImageFile Name="arche_normal_198.png" Key="arche_normal_198.png" />
+              <PlistImageFile Name="arche_normal_199.png" Key="arche_normal_199.png" />
+              <PlistImageFile Name="arche_normal_2.png" Key="arche_normal_2.png" />
+              <PlistImageFile Name="arche_normal_20.png" Key="arche_normal_20.png" />
+              <PlistImageFile Name="arche_normal_200.png" Key="arche_normal_200.png" />
+              <PlistImageFile Name="arche_normal_201.png" Key="arche_normal_201.png" />
+              <PlistImageFile Name="arche_normal_202.png" Key="arche_normal_202.png" />
+              <PlistImageFile Name="arche_normal_203.png" Key="arche_normal_203.png" />
+              <PlistImageFile Name="arche_normal_204.png" Key="arche_normal_204.png" />
+              <PlistImageFile Name="arche_normal_205.png" Key="arche_normal_205.png" />
+              <PlistImageFile Name="arche_normal_206.png" Key="arche_normal_206.png" />
+              <PlistImageFile Name="arche_normal_207.png" Key="arche_normal_207.png" />
+              <PlistImageFile Name="arche_normal_208.png" Key="arche_normal_208.png" />
+              <PlistImageFile Name="arche_normal_209.png" Key="arche_normal_209.png" />
+              <PlistImageFile Name="arche_normal_21.png" Key="arche_normal_21.png" />
+              <PlistImageFile Name="arche_normal_210.png" Key="arche_normal_210.png" />
+              <PlistImageFile Name="arche_normal_211.png" Key="arche_normal_211.png" />
+              <PlistImageFile Name="arche_normal_212.png" Key="arche_normal_212.png" />
+              <PlistImageFile Name="arche_normal_213.png" Key="arche_normal_213.png" />
+              <PlistImageFile Name="arche_normal_214.png" Key="arche_normal_214.png" />
+              <PlistImageFile Name="arche_normal_215.png" Key="arche_normal_215.png" />
+              <PlistImageFile Name="arche_normal_216.png" Key="arche_normal_216.png" />
+              <PlistImageFile Name="arche_normal_217.png" Key="arche_normal_217.png" />
+              <PlistImageFile Name="arche_normal_218.png" Key="arche_normal_218.png" />
+              <PlistImageFile Name="arche_normal_219.png" Key="arche_normal_219.png" />
+              <PlistImageFile Name="arche_normal_22.png" Key="arche_normal_22.png" />
+              <PlistImageFile Name="arche_normal_220.png" Key="arche_normal_220.png" />
+              <PlistImageFile Name="arche_normal_221.png" Key="arche_normal_221.png" />
+              <PlistImageFile Name="arche_normal_222.png" Key="arche_normal_222.png" />
+              <PlistImageFile Name="arche_normal_223.png" Key="arche_normal_223.png" />
+              <PlistImageFile Name="arche_normal_224.png" Key="arche_normal_224.png" />
+              <PlistImageFile Name="arche_normal_225.png" Key="arche_normal_225.png" />
+              <PlistImageFile Name="arche_normal_226.png" Key="arche_normal_226.png" />
+              <PlistImageFile Name="arche_normal_227.png" Key="arche_normal_227.png" />
+              <PlistImageFile Name="arche_normal_228.png" Key="arche_normal_228.png" />
+              <PlistImageFile Name="arche_normal_229.png" Key="arche_normal_229.png" />
+              <PlistImageFile Name="arche_normal_23.png" Key="arche_normal_23.png" />
+              <PlistImageFile Name="arche_normal_230.png" Key="arche_normal_230.png" />
+              <PlistImageFile Name="arche_normal_231.png" Key="arche_normal_231.png" />
+              <PlistImageFile Name="arche_normal_232.png" Key="arche_normal_232.png" />
+              <PlistImageFile Name="arche_normal_233.png" Key="arche_normal_233.png" />
+              <PlistImageFile Name="arche_normal_234.png" Key="arche_normal_234.png" />
+              <PlistImageFile Name="arche_normal_235.png" Key="arche_normal_235.png" />
+              <PlistImageFile Name="arche_normal_236.png" Key="arche_normal_236.png" />
+              <PlistImageFile Name="arche_normal_237.png" Key="arche_normal_237.png" />
+              <PlistImageFile Name="arche_normal_238.png" Key="arche_normal_238.png" />
+              <PlistImageFile Name="arche_normal_239.png" Key="arche_normal_239.png" />
+              <PlistImageFile Name="arche_normal_24.png" Key="arche_normal_24.png" />
+              <PlistImageFile Name="arche_normal_240.png" Key="arche_normal_240.png" />
+              <PlistImageFile Name="arche_normal_241.png" Key="arche_normal_241.png" />
+              <PlistImageFile Name="arche_normal_242.png" Key="arche_normal_242.png" />
+              <PlistImageFile Name="arche_normal_243.png" Key="arche_normal_243.png" />
+              <PlistImageFile Name="arche_normal_244.png" Key="arche_normal_244.png" />
+              <PlistImageFile Name="arche_normal_245.png" Key="arche_normal_245.png" />
+              <PlistImageFile Name="arche_normal_246.png" Key="arche_normal_246.png" />
+              <PlistImageFile Name="arche_normal_247.png" Key="arche_normal_247.png" />
+              <PlistImageFile Name="arche_normal_248.png" Key="arche_normal_248.png" />
+              <PlistImageFile Name="arche_normal_249.png" Key="arche_normal_249.png" />
+              <PlistImageFile Name="arche_normal_25.png" Key="arche_normal_25.png" />
+              <PlistImageFile Name="arche_normal_250.png" Key="arche_normal_250.png" />
+              <PlistImageFile Name="arche_normal_251.png" Key="arche_normal_251.png" />
+              <PlistImageFile Name="arche_normal_252.png" Key="arche_normal_252.png" />
+              <PlistImageFile Name="arche_normal_26.png" Key="arche_normal_26.png" />
+              <PlistImageFile Name="arche_normal_27.png" Key="arche_normal_27.png" />
+              <PlistImageFile Name="arche_normal_28.png" Key="arche_normal_28.png" />
+              <PlistImageFile Name="arche_normal_29.png" Key="arche_normal_29.png" />
+              <PlistImageFile Name="arche_normal_3.png" Key="arche_normal_3.png" />
+              <PlistImageFile Name="arche_normal_30.png" Key="arche_normal_30.png" />
+              <PlistImageFile Name="arche_normal_31.png" Key="arche_normal_31.png" />
+              <PlistImageFile Name="arche_normal_32.png" Key="arche_normal_32.png" />
+              <PlistImageFile Name="arche_normal_33.png" Key="arche_normal_33.png" />
+              <PlistImageFile Name="arche_normal_34.png" Key="arche_normal_34.png" />
+              <PlistImageFile Name="arche_normal_35.png" Key="arche_normal_35.png" />
+              <PlistImageFile Name="arche_normal_36.png" Key="arche_normal_36.png" />
+              <PlistImageFile Name="arche_normal_37.png" Key="arche_normal_37.png" />
+              <PlistImageFile Name="arche_normal_38.png" Key="arche_normal_38.png" />
+              <PlistImageFile Name="arche_normal_39.png" Key="arche_normal_39.png" />
+              <PlistImageFile Name="arche_normal_4.png" Key="arche_normal_4.png" />
+              <PlistImageFile Name="arche_normal_40.png" Key="arche_normal_40.png" />
+              <PlistImageFile Name="arche_normal_41.png" Key="arche_normal_41.png" />
+              <PlistImageFile Name="arche_normal_42.png" Key="arche_normal_42.png" />
+              <PlistImageFile Name="arche_normal_43.png" Key="arche_normal_43.png" />
+              <PlistImageFile Name="arche_normal_44.png" Key="arche_normal_44.png" />
+              <PlistImageFile Name="arche_normal_45.png" Key="arche_normal_45.png" />
+              <PlistImageFile Name="arche_normal_46.png" Key="arche_normal_46.png" />
+              <PlistImageFile Name="arche_normal_47.png" Key="arche_normal_47.png" />
+              <PlistImageFile Name="arche_normal_48.png" Key="arche_normal_48.png" />
+              <PlistImageFile Name="arche_normal_49.png" Key="arche_normal_49.png" />
+              <PlistImageFile Name="arche_normal_5.png" Key="arche_normal_5.png" />
+              <PlistImageFile Name="arche_normal_50.png" Key="arche_normal_50.png" />
+              <PlistImageFile Name="arche_normal_51.png" Key="arche_normal_51.png" />
+              <PlistImageFile Name="arche_normal_52.png" Key="arche_normal_52.png" />
+              <PlistImageFile Name="arche_normal_53.png" Key="arche_normal_53.png" />
+              <PlistImageFile Name="arche_normal_54.png" Key="arche_normal_54.png" />
+              <PlistImageFile Name="arche_normal_55.png" Key="arche_normal_55.png" />
+              <PlistImageFile Name="arche_normal_56.png" Key="arche_normal_56.png" />
+              <PlistImageFile Name="arche_normal_57.png" Key="arche_normal_57.png" />
+              <PlistImageFile Name="arche_normal_58.png" Key="arche_normal_58.png" />
+              <PlistImageFile Name="arche_normal_59.png" Key="arche_normal_59.png" />
+              <PlistImageFile Name="arche_normal_6.png" Key="arche_normal_6.png" />
+              <PlistImageFile Name="arche_normal_60.png" Key="arche_normal_60.png" />
+              <PlistImageFile Name="arche_normal_61.png" Key="arche_normal_61.png" />
+              <PlistImageFile Name="arche_normal_62.png" Key="arche_normal_62.png" />
+              <PlistImageFile Name="arche_normal_63.png" Key="arche_normal_63.png" />
+              <PlistImageFile Name="arche_normal_64.png" Key="arche_normal_64.png" />
+              <PlistImageFile Name="arche_normal_65.png" Key="arche_normal_65.png" />
+              <PlistImageFile Name="arche_normal_66.png" Key="arche_normal_66.png" />
+              <PlistImageFile Name="arche_normal_67.png" Key="arche_normal_67.png" />
+              <PlistImageFile Name="arche_normal_68.png" Key="arche_normal_68.png" />
+              <PlistImageFile Name="arche_normal_69.png" Key="arche_normal_69.png" />
+              <PlistImageFile Name="arche_normal_7.png" Key="arche_normal_7.png" />
+              <PlistImageFile Name="arche_normal_70.png" Key="arche_normal_70.png" />
+              <PlistImageFile Name="arche_normal_71.png" Key="arche_normal_71.png" />
+              <PlistImageFile Name="arche_normal_72.png" Key="arche_normal_72.png" />
+              <PlistImageFile Name="arche_normal_73.png" Key="arche_normal_73.png" />
+              <PlistImageFile Name="arche_normal_74.png" Key="arche_normal_74.png" />
+              <PlistImageFile Name="arche_normal_75.png" Key="arche_normal_75.png" />
+              <PlistImageFile Name="arche_normal_76.png" Key="arche_normal_76.png" />
+              <PlistImageFile Name="arche_normal_77.png" Key="arche_normal_77.png" />
+              <PlistImageFile Name="arche_normal_78.png" Key="arche_normal_78.png" />
+              <PlistImageFile Name="arche_normal_79.png" Key="arche_normal_79.png" />
+              <PlistImageFile Name="arche_normal_8.png" Key="arche_normal_8.png" />
+              <PlistImageFile Name="arche_normal_80.png" Key="arche_normal_80.png" />
+              <PlistImageFile Name="arche_normal_81.png" Key="arche_normal_81.png" />
+              <PlistImageFile Name="arche_normal_82.png" Key="arche_normal_82.png" />
+              <PlistImageFile Name="arche_normal_83.png" Key="arche_normal_83.png" />
+              <PlistImageFile Name="arche_normal_84.png" Key="arche_normal_84.png" />
+              <PlistImageFile Name="arche_normal_85.png" Key="arche_normal_85.png" />
+              <PlistImageFile Name="arche_normal_86.png" Key="arche_normal_86.png" />
+              <PlistImageFile Name="arche_normal_87.png" Key="arche_normal_87.png" />
+              <PlistImageFile Name="arche_normal_88.png" Key="arche_normal_88.png" />
+              <PlistImageFile Name="arche_normal_89.png" Key="arche_normal_89.png" />
+              <PlistImageFile Name="arche_normal_9.png" Key="arche_normal_9.png" />
+              <PlistImageFile Name="arche_normal_90.png" Key="arche_normal_90.png" />
+              <PlistImageFile Name="arche_normal_91.png" Key="arche_normal_91.png" />
+              <PlistImageFile Name="arche_normal_92.png" Key="arche_normal_92.png" />
+              <PlistImageFile Name="arche_normal_93.png" Key="arche_normal_93.png" />
+              <PlistImageFile Name="arche_normal_94.png" Key="arche_normal_94.png" />
+              <PlistImageFile Name="arche_normal_95.png" Key="arche_normal_95.png" />
+              <PlistImageFile Name="arche_normal_96.png" Key="arche_normal_96.png" />
+              <PlistImageFile Name="arche_normal_97.png" Key="arche_normal_97.png" />
+              <PlistImageFile Name="arche_normal_98.png" Key="arche_normal_98.png" />
+              <PlistImageFile Name="arche_normal_99.png" Key="arche_normal_99.png" />
+            </PlistImageFolder>
+          </Folder>
+          <Folder Name="LongMao_meimei">
+            <PlistImageFolder Image="lmmm.png" PListFile="lmmm.plist" Name=".lmmm_PList.Dir">
+              <PlistImageFile Name="lmmm_1.png" Key="lmmm_1.png" />
+              <PlistImageFile Name="lmmm_10.png" Key="lmmm_10.png" />
+              <PlistImageFile Name="lmmm_11.png" Key="lmmm_11.png" />
+              <PlistImageFile Name="lmmm_12.png" Key="lmmm_12.png" />
+              <PlistImageFile Name="lmmm_13.png" Key="lmmm_13.png" />
+              <PlistImageFile Name="lmmm_14.png" Key="lmmm_14.png" />
+              <PlistImageFile Name="lmmm_15.png" Key="lmmm_15.png" />
+              <PlistImageFile Name="lmmm_16.png" Key="lmmm_16.png" />
+              <PlistImageFile Name="lmmm_17.png" Key="lmmm_17.png" />
+              <PlistImageFile Name="lmmm_18.png" Key="lmmm_18.png" />
+              <PlistImageFile Name="lmmm_19.png" Key="lmmm_19.png" />
+              <PlistImageFile Name="lmmm_2.png" Key="lmmm_2.png" />
+              <PlistImageFile Name="lmmm_20.png" Key="lmmm_20.png" />
+              <PlistImageFile Name="lmmm_21.png" Key="lmmm_21.png" />
+              <PlistImageFile Name="lmmm_22.png" Key="lmmm_22.png" />
+              <PlistImageFile Name="lmmm_23.png" Key="lmmm_23.png" />
+              <PlistImageFile Name="lmmm_24.png" Key="lmmm_24.png" />
+              <PlistImageFile Name="lmmm_25.png" Key="lmmm_25.png" />
+              <PlistImageFile Name="lmmm_26.png" Key="lmmm_26.png" />
+              <PlistImageFile Name="lmmm_27.png" Key="lmmm_27.png" />
+              <PlistImageFile Name="lmmm_28.png" Key="lmmm_28.png" />
+              <PlistImageFile Name="lmmm_29.png" Key="lmmm_29.png" />
+              <PlistImageFile Name="lmmm_3.png" Key="lmmm_3.png" />
+              <PlistImageFile Name="lmmm_30.png" Key="lmmm_30.png" />
+              <PlistImageFile Name="lmmm_4.png" Key="lmmm_4.png" />
+              <PlistImageFile Name="lmmm_5.png" Key="lmmm_5.png" />
+              <PlistImageFile Name="lmmm_6.png" Key="lmmm_6.png" />
+              <PlistImageFile Name="lmmm_7.png" Key="lmmm_7.png" />
+              <PlistImageFile Name="lmmm_8.png" Key="lmmm_8.png" />
+              <PlistImageFile Name="lmmm_9.png" Key="lmmm_9.png" />
+            </PlistImageFolder>
+          </Folder>
+          <Folder Name="Terrain">
+            <Folder Name="viridianscape">
+              <Image Name="viridianscape_bg1.png" />
+              <Image Name="viridianscape_bg2.png" />
+              <Image Name="viridianscape_sky.png" />
+            </Folder>
+          </Folder>
+          <TTF Name="font1.ttf" />
+          <TTF Name="font2.ttf" />
+          <TTF Name="fzcy.TTF" />
+          <Image Name="logobg.jpg" />
+          <TTF Name="syhtsxt.ttf" />
+          <TTF Name="ztgjspz.ttf" />
+          <TTF Name="ztgjxng.ttf" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>

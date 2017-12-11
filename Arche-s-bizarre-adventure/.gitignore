@@ -1,0 +1,6 @@
+.idea
+publish
+simulator
+android_release.bat
+build_android.bat
+web_server.bat
